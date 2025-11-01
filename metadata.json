@@ -1,0 +1,7 @@
+{
+  "name": "TheSoulGarden - Event & Venue Management",
+  "description": "An integrated platform for showcasing venues, managing bookings, and organizing event registrations. It features a public-facing website for customers and a comprehensive admin dashboard for management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
